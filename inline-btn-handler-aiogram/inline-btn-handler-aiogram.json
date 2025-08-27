@@ -10,6 +10,6 @@
     "repo": "meta-lang-py",
     "path": "inline-btn-handler-aiogram"
   },
-  "description": "Асинхронная обработка нажатий на inline-кнопки (callback_query) в Telegram-ботах на aiogram.",
-  "prompt": "Вставь код из code.py для асинхронной обработки inline кнопок через aiogram. При первом использовании добавь комментарий `# [py-async-inline-btn-handler]`. При ≥2 использований скопируй в project/dict/py-async-inline-btn-handler.json и замени все вхождения на `[py-async-inline-btn-handler]`."
+  "description": "Handles inline button callbacks (callback_query) in Telegram bots using aiogram (async framework).",
+  "prompt": "Insert code from code.py for async inline button callback handling with aiogram. For first use, include comment `# [py-async-inline-btn-handler]`. For ≥2 uses, copy to project/dict/py-async-inline-btn-handler.json and replace all instances with `[py-async-inline-btn-handler]`."
 }
