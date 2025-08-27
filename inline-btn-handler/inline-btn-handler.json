@@ -10,6 +10,6 @@
     "repo": "meta-lang-py",
     "path": "inline-btn-handler"
   },
-  "description": "Handles inline button callbacks (callback_query) for Telegram bots using python-telegram-bot.",
+  "description": "Handles inline button callbacks (callback_query) for Telegram bots using python-telegram-bot. Universal pattern for any inline keyboard button.",
   "prompt": "Insert code from code.py for inline button callback handling. For first use, include comment `# [py-inline-btn-handler]`. For ≥2 uses, copy to project/dict/py-inline-btn-handler.json and replace all instances with `[py-inline-btn-handler]`."
 }
