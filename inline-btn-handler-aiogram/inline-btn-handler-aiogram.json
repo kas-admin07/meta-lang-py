@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "index": "py-async-inline-btn-handler",
+    "tag": "inline-button-handler",
+    "lang": "py",
+    "comment": "# [py-async-inline-btn-handler]",
+    "similar_to": ["py-inline-btn-handler"],
+    "dependencies": ["aiogram>=3.0.0"],
+    "verified": true,
+    "repo": "meta-lang-py",
+    "path": "inline-btn-handler-aiogram"
+  },
+  "description": "Асинхронная обработка нажатий на inline-кнопки (callback_query) в Telegram-ботах на aiogram.",
+  "prompt": "Вставь код из code.py для асинхронной обработки inline кнопок через aiogram. При первом использовании добавь комментарий `# [py-async-inline-btn-handler]`. При ≥2 использований скопируй в project/dict/py-async-inline-btn-handler.json и замени все вхождения на `[py-async-inline-btn-handler]`."
+}
