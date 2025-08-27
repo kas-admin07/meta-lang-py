@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "index": "py-inline-btn-handler",
+    "tag": "inline-button-handler",
+    "lang": "py",
+    "comment": "# [py-inline-btn-handler]",
+    "similar_to": [],
+    "dependencies": ["python-telegram-bot>=20.0"],
+    "verified": true,
+    "repo": "meta-lang-py",
+    "path": "inline-btn-handler"
+  },
+  "description": "Handles inline button callbacks (callback_query) for Telegram bots using python-telegram-bot.",
+  "prompt": "Insert code from code.py for inline button callback handling. For first use, include comment `# [py-inline-btn-handler]`. For ≥2 uses, copy to project/dict/py-inline-btn-handler.json and replace all instances with `[py-inline-btn-handler]`."
+}
